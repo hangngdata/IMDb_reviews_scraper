@@ -6,7 +6,7 @@ Leveraging the power of BeautifulSoup, Selenium, and IMDb packages, this tool au
 
 ## Usage
 
-- Step 1: Scrape movie data from [The Number] (https://www.the-numbers.com/market/2025/top-grossing-movies) (eg. top-grossing movies)
+- Step 1: Scrape movie data from [The Numbers](https://www.the-numbers.com/market/2025/top-grossing-movies) (eg. top-grossing movies)
 - Step 2: Clean and prepare the movie dataset
 - Step 3: Find IMDb review URLs for each movie 
 - Step 4: Scrape user reviews, ratings, and reactions from IMDb
